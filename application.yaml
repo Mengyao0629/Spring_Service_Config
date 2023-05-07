@@ -1,9 +1,3 @@
-server:
-  port: 8051
-
-spring:
-  application:
-      name: Service_config
 
 eureka:
   instance:
